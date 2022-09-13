@@ -1,0 +1,24 @@
+body {
+    background: pink;
+}
+
+#gra a {
+    display: inline-block;
+    width: 140px;
+    color: aqua;
+    font-size: 18px;
+    text-align: center;
+    margin: 10px;
+}
+
+#gra a img{
+    border: 3px dashed #555;
+    margin-top: 3px;
+}
+
+footer{ 
+	position: fixed;     
+	text-align: center;    
+	bottom: 10px; 
+	width: 100%;
+}  

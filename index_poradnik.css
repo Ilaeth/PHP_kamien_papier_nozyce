@@ -1,0 +1,11 @@
+body {
+    background: url(kamien-papier-nozyce-wersja-rozszerzona.jpg) no-repeat center top fixed;
+    text-align: center;
+}
+
+footer{ 
+	position: fixed;     
+	text-align: center;    
+	bottom: 10px; 
+	width: 100%;
+}  

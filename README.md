@@ -8,6 +8,7 @@
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
+* [Photos](#photos)
 * [Contact](#contact)
 
 ## General info
@@ -28,5 +29,7 @@ Project is: _finished_
 ## Inspiration
 Project inspired by https://memy.jeja.pl/2503,papier-kamien-nozyce-wersja.html
 
+## Photos
+Photos from www.istockphoto.com
 ## Contact
 Created by Przemysław Podlecki.

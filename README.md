@@ -1,5 +1,5 @@
 # Project Name
-> Kamień, Papier, Nozyce z wersją rozszerzoną
+> Kamień, Papier, Nozyce wersja podstawowoa i wersja rozszerzona
 
 ## Table of contents
 * [General info](#general-info)

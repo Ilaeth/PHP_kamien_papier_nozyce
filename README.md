@@ -1,5 +1,5 @@
 # Project Name
-> Kampień, Papier, Nozyce z wersją rozszerzoną
+> Kamień, Papier, Nozyce z wersją rozszerzoną
 
 ## Table of contents
 * [General info](#general-info)
@@ -20,8 +20,13 @@ Project made for mark.
 ## Setup
 Run in Visual Studio Code.
 
-
 ## Features
 
 ## Status
 Project is: _finished_
+
+## Inspiration
+Project inspired by https://memy.jeja.pl/2503,papier-kamien-nozyce-wersja.html
+
+## Contact
+Created by Przemysław Podlecki.

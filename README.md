@@ -15,11 +15,11 @@
 Project made for mark.
 
 ## Technologies
+* Visual Studio Code 1.71.1
 * PHP
 * CSS
 
 ## Setup
-Run in Visual Studio Code.
 
 ## Features
 
@@ -31,5 +31,6 @@ Project inspired by https://memy.jeja.pl/2503,papier-kamien-nozyce-wersja.html
 
 ## Photos
 Photos from www.istockphoto.com
+
 ## Contact
 Created by Przemysław Podlecki.
